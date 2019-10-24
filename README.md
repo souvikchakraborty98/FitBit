@@ -1,6 +1,6 @@
 ﻿
 # FitBit_Driver_Fatigue
-## INTRODUCTION
+### INTRODUCTION
 
 ## 1.1  AIM
 To design a device prototype which will monitor the build-up of fatigue in drivers
